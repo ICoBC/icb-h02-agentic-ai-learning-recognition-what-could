@@ -1,0 +1,32 @@
+{
+  "course_id": "ICB-H02",
+  "repository": "icb-h02-agentic-ai-learning-recognition-what-could",
+  "repository_url": "https://github.com/ICoBC/icb-h02-agentic-ai-learning-recognition-what-could",
+  "title": "Agentic AI in Learning and Recognition: What Could Go Wrong",
+  "subtitle": "Agents that request, hold and present credentials, and the controls they need.",
+  "version": "1.0.0",
+  "series": "Horizon",
+  "skill": "Trustworthy AI in recognition",
+  "level": "4",
+  "level_name": "Assure",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-AIRC-L4-A",
+  "badge_name": "Agentic AI in Learning and Recognition: What Could Go Wrong (Ability, L4)",
+  "hours": "4",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-h02/",
+  "parts": [
+    "About this course",
+    "Agents and credentials",
+    "Risk scenarios",
+    "Controls",
+    "Accountability",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 18
+}
